@@ -1,0 +1,31 @@
+
+Trin 1: Kig på kræfterne (de resulterende)... tryk niveauerne er ikke det væsentlige
+
+	Prøv at fjerne friktion i SimX - størrelsen af trykkene (rigtigt last ved stilstand)
+
+	justere statisk last til således at det er den rigtige byrde der opleves. 
+
+	Friktion:
+
+		Dernæst kig på (stroke,F_cyl) for en 
+	
+	Mekanik og friktion - kræfterne rigtige
+
+Trin 2: Trykniveauerne
+
+	hydraulik
+
+	Tune OCV ventillerne ind, så tryk
+
+Trin 3  Dynamik
+	Inkludere stivhed/fleksibilitet i mekanik og olie
+	Dæmping (egenfrekvens, udbøjning/amplitude
+
+
+
+Ad, Cd og flow kræfter som funktion af gliderens position
+
+Hvis I skulle lave en simuleringsmodel af en SUN last holde ventil... hvordan vil så anbefale at gøre det? Fysisk-Matematisk eller eksperiementel blackbox
+	Kommer hurtigt til at mangle data
+
+
